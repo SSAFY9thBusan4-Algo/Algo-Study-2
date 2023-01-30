@@ -2,11 +2,16 @@
 
 SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 
- - [ ] 부울경 4반 김승연
- - [ ] 부울경 4반 이종윤
- - [ ] 부울경 4반 이하린
- - [ ] 부울경 4반 조은정
- - [ ] 부울경 4반 권선근
+## 🙋🏻‍♂️ Contributors
+<table>
+  <tr>
+   <td align="center"><a href="https://github.com/kss4037"><img src="https://avatars.githubusercontent.com/u/49977437?v=4" width="100px;" alt=""/><br /><sub><b>권선근</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ksy00826"><img src="https://avatars.githubusercontent.com/u/76732805?v=4" width="100px;" alt=""/><br /><sub><b>김승연</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/qjrm69"><img src="https://avatars.githubusercontent.com/u/38920667?v=4" width="100px;" alt=""/><br /><sub><b>이종윤</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Harinee68"><img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="100px;" alt=""/><br /><sub><b>이하린</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jeunjeong"><img src="https://avatars.githubusercontent.com/u/123714739?v=4" width="100px;" alt=""/><br /><sub><b>조은정</b></sub></a><br /></td>
+  </tr>
+</table>
 <br><br>
 
 ## 📌 Rule
