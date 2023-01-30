@@ -2,24 +2,25 @@
 
 SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 
+<br>
+
 ## 🙋🏻‍♂️ Contributors
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/kss4037"><img src="https://avatars.githubusercontent.com/u/49977437?v=4" width="100px;" alt=""/><br /><sub><b>권선근</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/ksy00826"><img src="https://avatars.githubusercontent.com/u/76732805?v=4" width="100px;" alt=""/><br /><sub><b>김승연</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/qjrm69"><img src="https://avatars.githubusercontent.com/u/38920667?v=4" width="100px;" alt=""/><br /><sub><b>이종윤</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Harinee68"><img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="100px;" alt=""/><br /><sub><b>이하린</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/jeunjeong"><img src="https://avatars.githubusercontent.com/u/123714739?v=4" width="100px;" alt=""/><br /><sub><b>조은정</b></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/kss4037"><img src="https://avatars.githubusercontent.com/u/49977437?v=4" width="120px;" alt=""/><br /><sub><b>권선근</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ksy00826"><img src="https://avatars.githubusercontent.com/u/76732805?v=4" width="120px;" alt=""/><br /><sub><b>김승연</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/qjrm69"><img src="https://avatars.githubusercontent.com/u/38920667?v=4" width="120px;" alt=""/><br /><sub><b>이종윤</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Harinee68"><img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="120px;" alt=""/><br /><sub><b>이하린</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jeunjeong"><img src="https://avatars.githubusercontent.com/u/123714739?v=4" width="120px;" alt=""/><br /><sub><b>조은정</b></sub></a><br /></td>
   </tr>
 </table>
-<br><br>
+<br>
 
 ## 📌 Rule
-각자 문제를 선정하여 매주 4~12문제를 풉니다.
-매주 월요일 카카오톡 공지방에 댓글로 문제를 등록합니다.
-* ❗❗ 문제풀이 마감 : 매주 일요일 20:00 까지
-* ❕❕ 리뷰 마감 : 매주 월요일 23:59 까지
-<br><br>
+각자 문제를 선정하여 매주 4~5문제를 풉니다.
+* ❗❗ 문제풀이 마감 : 매주 토요일 23:59 까지
+* ❕❕ 리뷰 마감 : 매주 일요일 23:59 까지
+<br>
 
 ## 📌 Convention
 ###  1️⃣ Code Convention
@@ -79,7 +80,7 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 1. Pull Request의 제목은 다음과 같이 통일합니다.
 **이름 : 문제플랫폼 문제번호 문제등급 문제제목** 
 		
-		 JIHONG KIM : BOJ 1051 S3 숫자정사각형
+		 김싸피 : BOJ 1051 S3 숫자정사각형
 		
 2. Pull Request의 comment에는 본인이 작성한 README.md의 내용을 추가합니다. 
 
