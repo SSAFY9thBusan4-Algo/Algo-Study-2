@@ -2,11 +2,16 @@
 
 SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 
- - [ ] 부울경 4반 김승연
- - [ ] 부울경 4반 이종윤
- - [ ] 부울경 4반 이하린
- - [ ] 부울경 4반 조은정
- - [ ] 부울경 4반 권선근
+## 🙋🏻‍♂️ Contributors
+<table>
+  <tr>
+   <td align="center"><a href="https://github.com/kss4037"><img src="https://avatars.githubusercontent.com/u/49977437?v=4" width="100px;" alt=""/><br /><sub><b>권선근</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ksy00826"><img src="https://avatars.githubusercontent.com/u/76732805?v=4" width="100px;" alt=""/><br /><sub><b>김승연</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/qjrm69"><img src="https://avatars.githubusercontent.com/u/38920667?v=4" width="100px;" alt=""/><br /><sub><b>이종윤</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Harinee68"><img src="https://avatars.githubusercontent.com/u/62701446?v=4" width="100px;" alt=""/><br /><sub><b>이하린</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/jeunjeong"><img src="https://avatars.githubusercontent.com/u/123714739?v=4" width="100px;" alt=""/><br /><sub><b>조은정</b></sub></a><br /></td>
+  </tr>
+</table>
 <br><br>
 
 ## 📌 Rule
@@ -26,9 +31,9 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 ### 2️⃣ Project Convention
 
 각 멤버별 프로젝트 구조는 다음과 같습니다
-**프로젝트이름/week번호/플랫폼_문제번호_레벨_문제이름/...**
+**이름/week번호/플랫폼_문제번호_레벨_문제이름/...**
 
-    kjh95044/week15/BOJ_1051_S3_숫자정사각형/...
+    김싸피/week15/BOJ_1051_S3_숫자정사각형/...
 
 <br>
 
@@ -96,7 +101,7 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 		이 때의 commit message는 2️⃣ Commit Convention에서 언급한 규칙에 맞게 설정합니다.
 		3. 이 때 반드시 (a)에서 생성한 branch로 push 되는지 확인합니다.
 		4. 본인 계정의 fork된 repo에서 Pull Request을 작성할 때,   
-		코드가 push된 브랜치(a에서 생성한 jodawoooon/boj-1051)에서   
+		코드가 push된 브랜치(a에서 생성한 jihong/boj-1051)에서   
 		organization repo의 main 브랜치로 Pull Request를 보냅니다.
 
 
@@ -106,8 +111,8 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 ### 🚩 week 1
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | 브루트포스 | silver3 |
-| BOJ | 1476 | [날짜 계산](https://www.acmicpc.net/problem/1476) | 브루트포스 | silver5 |
-| BOJ | 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | 브루트포스 | gold4 |
-| BOJ | 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | 브루트포스| silver1 |
+| BOJ | 10828 | [스택](https://www.acmicpc.net/problem/10828) | 자료구조 | silver4 |
+| BOJ | 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 자료구조2 | silver4 |
+| BOJ | 6416 | [트리](https://www.acmicpc.net/problem/6416) | 트리 | ? |
+| BOJ | 5618 | [공약수](https://www.acmicpc.net/problem/5618) | 수학 | Bronze2 |
 
