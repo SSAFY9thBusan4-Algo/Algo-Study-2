@@ -26,9 +26,9 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 ### 2️⃣ Project Convention
 
 각 멤버별 프로젝트 구조는 다음과 같습니다
-**프로젝트이름/week번호/플랫폼_문제번호_레벨_문제이름/...**
+**이름/week번호/플랫폼_문제번호_레벨_문제이름/...**
 
-    kjh95044/week15/BOJ_1051_S3_숫자정사각형/...
+    김싸피/week15/BOJ_1051_S3_숫자정사각형/...
 
 <br>
 
@@ -106,8 +106,8 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 ### 🚩 week 1
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
-| BOJ | 3085 | [사탕 게임](https://www.acmicpc.net/problem/3085) | 브루트포스 | silver3 |
-| BOJ | 1476 | [날짜 계산](https://www.acmicpc.net/problem/1476) | 브루트포스 | silver5 |
-| BOJ | 1107 | [리모컨](https://www.acmicpc.net/problem/1107) | 브루트포스 | gold4 |
-| BOJ | 6064 | [카잉 달력](https://www.acmicpc.net/problem/6064) | 브루트포스| silver1 |
+| BOJ | 10828 | [스택](https://www.acmicpc.net/problem/10828) | 자료구조 | silver4 |
+| BOJ | 1620 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | 자료구조2 | silver4 |
+| BOJ | 6416 | [트리](https://www.acmicpc.net/problem/6416) | 트리 | ? |
+| BOJ | 5618 | [공약수](https://www.acmicpc.net/problem/5618) | 수학 | Bronze2 |
 
