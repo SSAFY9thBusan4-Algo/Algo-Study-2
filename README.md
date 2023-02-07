@@ -117,3 +117,11 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 | BOJ | 6416 | [트리](https://www.acmicpc.net/problem/6416) | 트리 | ? |
 | BOJ | 5618 | [공약수](https://www.acmicpc.net/problem/5618) | 수학 | Bronze2 |
 
+### 🚩 week 2
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 17626 | [Four Squares](https://www.acmicpc.net/problem/17626) | 동적계획법1 | silver3 |
+| BOJ | 9084 | [동전](https://www.acmicpc.net/problem/9084) | 동적계획법2 | gold5 |
+| BOJ | 21921 | [블로그](https://www.acmicpc.net/problem/21921) | 투 포인터 | silver3 |
+| BOJ | 1913 | [달팽이](https://www.acmicpc.net/problem/1913) | 구현 | silver3 |
+
