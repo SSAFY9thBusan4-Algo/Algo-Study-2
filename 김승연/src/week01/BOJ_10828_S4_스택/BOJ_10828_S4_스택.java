@@ -1,4 +1,4 @@
-package week01;
+package week01.BOJ_10828_S4_스택;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

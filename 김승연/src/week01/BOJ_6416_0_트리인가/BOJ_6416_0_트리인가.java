@@ -1,4 +1,4 @@
-package week01;
+package week01.BOJ_6416_0_트리인가;
 
 import java.io.BufferedReader;
 import java.io.IOException;
