@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BOJ_21921_S3_ºí·Î±× {
+public class BOJ_21921_S3_ë¸”ë¡œê·¸ {
 	
 	private static StringBuilder sb = new StringBuilder();
 	private static StringTokenizer st;
@@ -13,37 +13,37 @@ public class BOJ_21921_S3_ºí·Î±× {
 		
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		
-		//ÀÔ·Â N, X ¹ŞÀ½
-		//N : ºí·Î±×¸¦ ½ÃÀÛÇÑ Áö Áö³­ ÀÏ¼ö, X: ±â°£
+		//ì…ë ¥ N, X ë°›ìŒ
+		//N : ë¸”ë¡œê·¸ë¥¼ ì‹œì‘í•œ ì§€ ì§€ë‚œ ì¼ìˆ˜, X: ê¸°ê°„
 		st = new StringTokenizer(in.readLine());
 		int N = Integer.parseInt(st.nextToken());
 		int X = Integer.parseInt(st.nextToken());
 		
-		//ÇÕ ¹è¿­ ÀÔ·Â, ÀÎµ¦½º 1ºÎÅÍ ÀÚ½Å±îÁö ±¸°£ ÇÕÀ» ÀÚ½ÅÀÇ ÀÎµ¦½º¿¡ ÀúÀå
+		//í•© ë°°ì—´ ì…ë ¥, ì¸ë±ìŠ¤ 1ë¶€í„° ìì‹ ê¹Œì§€ êµ¬ê°„ í•©ì„ ìì‹ ì˜ ì¸ë±ìŠ¤ì— ì €ì¥
 		int accum[] = new int[N+1];
 		st = new StringTokenizer(in.readLine());
 		for(int i=1;i<=N;i++) {
 			accum[i] = accum[i-1] + Integer.parseInt(st.nextToken());
 		}
 		
-		//dp[N]==0, Áï ÃÖ´ë ¹æ¹®ÀÚ¼ö°¡ 0¸íÀÌ¶ó¸é SAD Ãâ·Â
+		//accum[N]==0, ì¦‰ ìµœëŒ€ ë°©ë¬¸ììˆ˜ê°€ 0ëª…ì´ë¼ë©´ SAD ì¶œë ¥
 		if(accum[N]==0) {
 			sb.append("SAD");
 		}
-		else {//¾Æ´Ï¶ó¸é
-			int max = Integer.MIN_VALUE; //ÃÖ´ë ¹æ¹®ÀÚ¼ö¸¦ ±¸ÇÏ±â À§ÇØ¼­ max º¯¼ö »ç¿ë
+		else {//ì•„ë‹ˆë¼ë©´
+			int max = Integer.MIN_VALUE; //ìµœëŒ€ ë°©ë¬¸ììˆ˜ë¥¼ êµ¬í•˜ê¸° ìœ„í•´ì„œ max ë³€ìˆ˜ ì‚¬ìš©
 			int cnt = 1;
 			
-			for(int i = 1;i<=N-X+1;i++) { //i´Â 1ºÎÅÍ N-X+1±îÁö ¹İº¹
+			for(int i = 1;i<=N-X+1;i++) { //iëŠ” 1ë¶€í„° N-X+1ê¹Œì§€ ë°˜ë³µ
 				int startIdx = i;
 				int endIdx = i+X-1;
 				
 				int visitCnt = accum[endIdx] - accum[startIdx-1];
 				if(visitCnt>max) {
-					max = visitCnt; //°ª ºñ±³¸¦ ÅëÇØ ÃÖ´ë ¹æ¹®ÀÚ ¼ö ÀúÀå
-					cnt=1; //ÃÖ´ë ¹æ¹®ÀÚ ¼ö°¡ ¹Ù²î¾ú´Ù¸é ´Ù½Ã 1·Î °»½Å
+					max = visitCnt; //ê°’ ë¹„êµë¥¼ í†µí•´ ìµœëŒ€ ë°©ë¬¸ì ìˆ˜ ì €ì¥
+					cnt=1; //ìµœëŒ€ ë°©ë¬¸ì ìˆ˜ê°€ ë°”ë€Œì—ˆë‹¤ë©´ ë‹¤ì‹œ 1ë¡œ ê°±ì‹ 
 				}
-				else if(max == visitCnt) cnt++; //¸¸¾à ÃÖ´ë ¹æ¹®ÀÚ ¼ö°¡ ¶Ç ³ª¿Ô´Ù¸é cnt++
+				else if(max == visitCnt) cnt++; //ë§Œì•½ ìµœëŒ€ ë°©ë¬¸ì ìˆ˜ê°€ ë˜ ë‚˜ì™”ë‹¤ë©´ cnt++
 			}
 			
 			sb.append(max).append("\n").append(cnt);
