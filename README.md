@@ -141,7 +141,10 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 | BOJ | 21318 | [피아노 체조](https://www.acmicpc.net/problem/21318) | 누적합 | sliver1 |
 | BOJ | 9342 | [염색체](https://www.acmicpc.net/problem/9342) | 문자열 | silver3 |
 
-### 🚩 week 5
+### 🚩 week 5 
+-> A형 역량 평가 대비 SWEA 문제 풀이
+
+### 🚩 week 6
 | Type | 문제 | 제목 | 유형 | rank |
 | -- |--| -- |--|--|
 | BOJ | 18352 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | 최단거리 | sliver2 |
