@@ -1,0 +1,39 @@
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class Main {
+	static int [] numbers;
+	static int N , M;
+	static int [] now;
+	static StringBuilder sb;
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		N = sc.nextInt();
+		M = sc.nextInt();
+		now = new int[M];
+		numbers = new int[N];
+		sb= new StringBuilder();
+		for(int i=0;i<N;i++) {
+			numbers[i] = i+1;
+		}
+
+		sol(0);
+		System.out.println(sb.toString());
+	}
+    //재귀를 이용해서 만드는 중복순열
+	private static void sol(int cnt) {
+    //순열길이가 M이되면 문자열을 추가하고 Return;
+		if(cnt == M) {
+			for(int i=0;i<M;i++) {
+				sb.append(now[i] + " " );
+			}
+			sb.append('\n');
+			return;
+		}
+    // 결과로 내놓을  char 배열에 후보 숫자를 하나 할당하고 재귀한다.
+		for(int i=0;i<N;i++) {
+			now[cnt] = numbers[i];
+			sol(cnt+1);
+		}
+	}
+}
