@@ -152,3 +152,11 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 | BOJ | 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Disjoint Set  | gold5 |
 | BOJ | 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 | gold4 |
 
+### 🚩 week 6
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | Trie | sliver3 |
+| BOJ | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리 DP | gold 5 |
+| BOJ | 1935 | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | 자료구조 | silver3 |
+| BOJ | 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | 자료구조 2 | gold4 |
+
