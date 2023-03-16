@@ -117,3 +117,46 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 | BOJ | 6416 | [트리](https://www.acmicpc.net/problem/6416) | 트리 | ? |
 | BOJ | 5618 | [공약수](https://www.acmicpc.net/problem/5618) | 수학 | Bronze2 |
 
+### 🚩 week 2
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 17626 | [Four Squares](https://www.acmicpc.net/problem/17626) | 동적계획법1 | silver3 |
+| BOJ | 9084 | [동전](https://www.acmicpc.net/problem/9084) | 동적계획법2 | gold5 |
+| BOJ | 21921 | [블로그](https://www.acmicpc.net/problem/21921) | 투 포인터 | silver3 |
+| BOJ | 1913 | [달팽이](https://www.acmicpc.net/problem/1913) | 구현 | silver3 |
+
+### 🚩 week 3
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) | 구현 | gold5 |
+| BOJ | 2606 | [바이러스](https://www.acmicpc.net/problem/2606) | 그래프 탐색 | silver3 |
+| BOJ | 16234 | [인구 이동](https://www.acmicpc.net/problem/16234) | 시뮬레이션 | gold5 |
+| BOJ | 2512 | [예산](https://www.acmicpc.net/problem/2512) | 이분탐색 | silver3 |
+
+### 🚩 week 4
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 15651 | [N과 M (3)](https://www.acmicpc.net/problem/15651) | 백트랙킹 | sliver3 |
+| BOJ | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | 분할정복 | gold5 |
+| BOJ | 21318 | [피아노 체조](https://www.acmicpc.net/problem/21318) | 누적합 | sliver1 |
+| BOJ | 9342 | [염색체](https://www.acmicpc.net/problem/9342) | 문자열 | silver3 |
+
+### 🚩 week 5 
+-> A형 역량 평가 대비 SWEA 문제 풀이
+
+### 🚩 week 6
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 18352 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | 최단거리 | sliver2 |
+| BOJ | 14567 | [선수과목](https://www.acmicpc.net/problem/14567) | 위상정렬 | gold5 |
+| BOJ | 1717 | [집합의 표현](https://www.acmicpc.net/problem/1717) | Disjoint Set  | gold5 |
+| BOJ | 1197 | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리 | gold4 |
+
+### 🚩 week 6
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | Trie | sliver3 |
+| BOJ | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리 DP | gold 5 |
+| BOJ | 1935 | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | 자료구조 | silver3 |
+| BOJ | 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | 자료구조 2 | gold4 |
+
