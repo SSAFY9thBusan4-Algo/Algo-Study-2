@@ -160,3 +160,12 @@ SSAFY 9기 부울경 4반 2조 알고리즘 스터디 기록
 | BOJ | 1935 | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | 자료구조 | silver3 |
 | BOJ | 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | 자료구조 2 | gold4 |
 
+### 🚩 week 7
+| Type | 문제 | 제목 | 유형 | rank |
+| -- |--| -- |--|--|
+| BOJ | 14425 | [완전 이진 트리 ](https://www.acmicpc.net/problem/9934) | Tree | sliver1 |
+| BOJ | 15681 | [소수 최소 공배수](https://www.acmicpc.net/problem/21919) | 수학 | silver 3 |
+| BOJ | 11000 | [강의실 배정](https://www.acmicpc.net/problem/7662) | 그리디 | gold5 |
+| BOJ | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | 동적계획법1 | silver5 |
+
+
